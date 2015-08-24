@@ -1,7 +1,7 @@
 # Htmle
 Yet another jQuery HTML WYSIWYG plugin
 
-As the following image shows, Htmle has the a set of most common editing functions. Htmle can be customized to show only the required controls. It doesn't have a heavy design theme, so that you can alter its css to fit into the theme of your website.
+As the following image shows, Htmle has the a set of most common editing functions. Htmle can be customized to show only the required controls. It doesn't have a heavy design theme, so that you can easily alter its css to fit into the theme of your website.
 
 ![Htmle Print Screen](https://raw.githubusercontent.com/mhsallam/htmle/master/htmle.jpg)
 
